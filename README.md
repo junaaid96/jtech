@@ -1,2 +1,2 @@
 # jtech
-this site is poorly remastered by me from 'tindog' of angela yu.
+this site is poorly remastered by me from 'tindog' by angela yu.
